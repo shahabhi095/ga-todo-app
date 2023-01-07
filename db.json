@@ -24,6 +24,41 @@
       "value": "E",
       "isCompleted": false,
       "id": 5
+    },
+    {
+      "value": "A",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "A",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": "d",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "value": "D",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "value": "E",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "value": "W",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "value": "Q",
+      "isCompleted": false,
+      "id": 12
     }
   ]
 }
